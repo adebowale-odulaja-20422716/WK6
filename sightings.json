@@ -1,0 +1,17 @@
+{
+    "sightings": [
+        {
+            "id": 1,
+            "animal": "Remmy Martin",
+            "number": 4,
+            "location": "Nigeria",
+            "date": "25-10-2021",
+            "time": "09:00:45",
+            "observer": {
+                "name": "George Merlin",
+                "email": "george.merlin@northampton.ac.uk"
+            },
+            "observations": "Four remmy martin. The father doesn't seem to be happy earlier in the morning but he's fine now."
+        }
+    ]
+}
