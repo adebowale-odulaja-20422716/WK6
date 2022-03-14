@@ -2,7 +2,7 @@
     "sightings": [
         {
             "id": 1,
-            "animal": "Remmy Martin",
+            "animal": "Scott Rabbit",
             "number": 4,
             "location": "Nigeria",
             "date": "25-10-2021",
@@ -11,7 +11,20 @@
                 "name": "George Merlin",
                 "email": "george.merlin@northampton.ac.uk"
             },
-            "observations": "Four remmy martin. The father doesn't seem to be happy earlier in the morning but he's fine now."
+            "observations": "Four Scott Rabbit. Their father doesn't seem to be happy earlier in the morning but he's fine now."
+        },
+        {
+            "id": 2,
+            "animal": "Sloth Brown",
+            "number": 5,
+            "location": "Lexiland",
+            "date": "13-07-2022",
+            "time": "14:56:45",
+            "observer": {
+                "name": "Muyiwa Abanga",
+                "email": "muyiwa.abanga@northampton.ac.uk"
+            },
+            "observations": "Five of the sloth brown walking on the highway, commuters have to slow down and allow cross the road at their pace."
         }
     ]
 }
